@@ -41,3 +41,6 @@ FedML/python/examples/
 
 # Ignore FedML examples (contains hard-coded tokens)
 FedML/python/examples/
+
+# Ignore examples with hard-coded tokens
+FedML/python/examples/
