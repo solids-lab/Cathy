@@ -35,3 +35,6 @@ data/**/*.cache
 # 说明：此 .gitignore 文件用于忽略常见的缓存、虚拟环境、数据文件、模型文件、IDE 配置及产物文件，保持仓库整洁。
 # Ignore FedML examples (contains hard-coded tokens)
 FedML/python/examples/
+
+# Ignore FedML examples (contains hard-coded tokens)
+FedML/python/examples/
